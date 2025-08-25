@@ -1,11 +1,11 @@
-##    Hi there
+### 👋 Hi there, I'm Shubham Kumar Singh!
 
-- 👋 Hi, I’m @Shubham04-code
-- 👀 I’m interested in programming and Artificial Intelligence.
-- 🌱 I’m currently learning C and C++.
-- 💞️ I’m looking to collaborate on github.com
-
-<!---
-Shubham04-code/Shubham04-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Aspiring Software Engineer | Java & Cloud Enthusiast  
+🎓 Student by profession, entrepreneur and programmer by hobby  
+🌱 Currently learning:  
+&nbsp;&nbsp;&nbsp;&nbsp;☕ Java (Core, OOP, Collections)  
+&nbsp;&nbsp;&nbsp;&nbsp;☁️ Cloud Computing (AZ-900, GCP, AWS basics, deployment models)  
+💡 Interested in backend development, APIs, and scalable systems  
+📚 Exploring Data Structures and Object-Oriented Programming  
+🤝 Looking to collaborate on Java and Cloud-based projects  
+📫 Reach me at: shubham26262727@gmail.com
